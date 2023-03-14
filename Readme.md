@@ -12,6 +12,7 @@ gcc -g -pthread -lm {filename}
     - Bounded buffer
     - Circular buffer
     - Infinite buffer
+- Barrier Problem
 
 ## Team Details
 
