@@ -13,6 +13,8 @@ gcc -g -pthread -lm {filename}
     - Circular buffer
     - Infinite buffer
 - Barrier Problem
+- Cigarette Smokers Problem
+- Sleeping Barbers Problem
 
 ## Team Details
 
