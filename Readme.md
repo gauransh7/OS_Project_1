@@ -20,4 +20,4 @@ gcc -g -pthread -lm {filename}
 
 - Gauransh Dingwani
 - Devansh Mishra
-
+- Sparsh Gupta 
