@@ -10,7 +10,6 @@
 // Define the barrier semaphore and count variables
 sem_t barrier_sem;
 int count = 0;
-int barrier_count = 0;
 
 // Define the thread IDs
 pthread_t threads[NUM_THREADS];
