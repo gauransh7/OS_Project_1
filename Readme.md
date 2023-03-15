@@ -17,6 +17,7 @@ gcc -g -pthread -lm {filename}
 - Sleeping Barbers Problem
 - Dining Philosophers Problem
 - Readers Writers Problem
+- Monitors Problem
 
 ## Team Details
 
