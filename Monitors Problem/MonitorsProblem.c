@@ -29,7 +29,7 @@ void monitor_enter(Monitor *m) {
 void monitor_exit(Monitor *m) {
     pthread_mutex_lock(&m->mutex);
     m->is_busy = 0;
-    pthread_cond_signal(&m->cond);
+    pthread_cond_broadcast(&m->cond);
     pthread_mutex_unlock(&m->mutex);
 }
 
