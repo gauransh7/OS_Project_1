@@ -32,7 +32,7 @@ int main() {
     for (i = 0; i < NUM_CUSTOMERS; i++) {
         id[i] = i;
         pthread_create(&customer_threads[i], NULL, customer, (void *)&id[i]);
-        sleep(1);
+        sleep(1.5);
     }
 
     for (i = 0; i < NUM_BARBERS; i++) {
