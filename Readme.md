@@ -20,6 +20,7 @@ gcc -g -pthread -lm {filename}
 
 ## Team Details
 
-- Gauransh Dingwani   
+- Ramanu Varsha       ---      20312025
+- Gauransh Dingwani   ---      19112029
 - Devansh Mishra      ---      19112023
 - Sparsh Gupta        ---      19113143
