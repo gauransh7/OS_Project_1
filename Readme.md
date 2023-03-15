@@ -15,6 +15,8 @@ gcc -g -pthread -lm {filename}
 - Barrier Problem
 - Cigarette Smokers Problem
 - Sleeping Barbers Problem
+- Dining Philosophers Problem
+- Readers Writers Problem
 
 ## Team Details
 
